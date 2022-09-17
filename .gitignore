@@ -1,0 +1,12 @@
+# virtual environment
+env/
+__pycache__/
+
+# unpacked data
+content/
+gui/
+spaces/
+assets/
+langs/
+app/
+*.json
